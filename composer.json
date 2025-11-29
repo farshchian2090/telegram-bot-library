@@ -1,0 +1,21 @@
+{
+    "name": "farshchian/telegram-bot-library",
+    "description": "Telegram bot package for laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Farshchian\\TelegramBotLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ma.farshchian",
+            "email": "farshchian2090@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "*"
+    },
+    "minimum-stability": "dev"
+}
